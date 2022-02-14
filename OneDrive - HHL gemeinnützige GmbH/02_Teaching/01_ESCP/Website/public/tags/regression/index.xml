@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regression on Customer Insights and Analytics</title>
+    <link>https://lennardschmidt.github.io/courses/tags/regression/</link>
+    <description>Recent content in regression on Customer Insights and Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lennardschmidt.github.io/courses/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Session I</title>
+      <link>https://lennardschmidt.github.io/courses/course-content/session-i/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lennardschmidt.github.io/courses/course-content/session-i/</guid>
+      <description>Read Datadata(&amp;quot;AirPassengers&amp;quot;)# df &amp;lt;- read.csv(&amp;quot;./Data -- HBAT - Hair/hbat.csv&amp;quot;, sep = &amp;quot;;&amp;quot;, col.names = c(# &amp;quot;ID&amp;quot;, &amp;quot;cust_type&amp;quot;, &amp;quot;ind_type&amp;quot;, &amp;quot;firm_size&amp;quot;, &amp;quot;region&amp;quot;,# &amp;quot;distr_sytem&amp;quot;, &amp;quot;prod_quality&amp;quot;, &amp;quot;ecom_activity&amp;quot;,# &amp;quot;tech_support&amp;quot;, &amp;quot;compl_resolution&amp;quot;, &amp;quot;advertising&amp;quot;,# &amp;quot;prod_line&amp;quot;, &amp;quot;salesforce_image&amp;quot;, &amp;quot;comp_pricing&amp;quot;,# &amp;quot;warranty&amp;quot;, &amp;quot;new_prod&amp;quot;, &amp;quot;ordering&amp;quot;, &amp;quot;price_flex&amp;quot;,# &amp;quot;delivery_speed&amp;quot;, &amp;quot;satisfaction&amp;quot;, &amp;quot;recom_likelihood&amp;quot;,# &amp;quot;purchase_likelihood&amp;quot;, &amp;quot;current_purchase&amp;quot;,# &amp;quot;future_partnership&amp;quot;# ))Inspect Dataskimr::skim(AirPassengers)Table 1: Data summaryNameAirPassengersNumber of rows144Number of columns1_______________________Column type frequency:ts1________________________Group variablesNoneVariable type: ts</description>
+    </item>
+    
+    <item>
+      <title>Session II</title>
+      <link>https://lennardschmidt.github.io/courses/course-content/session-ii/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lennardschmidt.github.io/courses/course-content/session-ii/</guid>
+      <description>Read Datadata(&amp;quot;AirPassengers&amp;quot;)# df &amp;lt;- read.csv(&amp;quot;./Data -- HBAT - Hair/hbat.csv&amp;quot;, sep = &amp;quot;;&amp;quot;, col.names = c(# &amp;quot;ID&amp;quot;, &amp;quot;cust_type&amp;quot;, &amp;quot;ind_type&amp;quot;, &amp;quot;firm_size&amp;quot;, &amp;quot;region&amp;quot;,# &amp;quot;distr_sytem&amp;quot;, &amp;quot;prod_quality&amp;quot;, &amp;quot;ecom_activity&amp;quot;,# &amp;quot;tech_support&amp;quot;, &amp;quot;compl_resolution&amp;quot;, &amp;quot;advertising&amp;quot;,# &amp;quot;prod_line&amp;quot;, &amp;quot;salesforce_image&amp;quot;, &amp;quot;comp_pricing&amp;quot;,# &amp;quot;warranty&amp;quot;, &amp;quot;new_prod&amp;quot;, &amp;quot;ordering&amp;quot;, &amp;quot;price_flex&amp;quot;,# &amp;quot;delivery_speed&amp;quot;, &amp;quot;satisfaction&amp;quot;, &amp;quot;recom_likelihood&amp;quot;,# &amp;quot;purchase_likelihood&amp;quot;, &amp;quot;current_purchase&amp;quot;,# &amp;quot;future_partnership&amp;quot;# ))Inspect Dataskimr::skim(AirPassengers)Table 1: Data summaryNameAirPassengersNumber of rows144Number of columns1_______________________Column type frequency:ts1________________________Group variablesNoneVariable type: ts</description>
+    </item>
+    
+    <item>
+      <title>Session III</title>
+      <link>https://lennardschmidt.github.io/courses/course-content/session-iii/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lennardschmidt.github.io/courses/course-content/session-iii/</guid>
+      <description>Read Datadata(&amp;quot;AirPassengers&amp;quot;)# df &amp;lt;- read.csv(&amp;quot;./Data -- HBAT - Hair/hbat.csv&amp;quot;, sep = &amp;quot;;&amp;quot;, col.names = c(# &amp;quot;ID&amp;quot;, &amp;quot;cust_type&amp;quot;, &amp;quot;ind_type&amp;quot;, &amp;quot;firm_size&amp;quot;, &amp;quot;region&amp;quot;,# &amp;quot;distr_sytem&amp;quot;, &amp;quot;prod_quality&amp;quot;, &amp;quot;ecom_activity&amp;quot;,# &amp;quot;tech_support&amp;quot;, &amp;quot;compl_resolution&amp;quot;, &amp;quot;advertising&amp;quot;,# &amp;quot;prod_line&amp;quot;, &amp;quot;salesforce_image&amp;quot;, &amp;quot;comp_pricing&amp;quot;,# &amp;quot;warranty&amp;quot;, &amp;quot;new_prod&amp;quot;, &amp;quot;ordering&amp;quot;, &amp;quot;price_flex&amp;quot;,# &amp;quot;delivery_speed&amp;quot;, &amp;quot;satisfaction&amp;quot;, &amp;quot;recom_likelihood&amp;quot;,# &amp;quot;purchase_likelihood&amp;quot;, &amp;quot;current_purchase&amp;quot;,# &amp;quot;future_partnership&amp;quot;# ))Inspect Dataskimr::skim(AirPassengers)Table 1: Data summaryNameAirPassengersNumber of rows144Number of columns1_______________________Column type frequency:ts1________________________Group variablesNoneVariable type: ts</description>
+    </item>
+    
+    <item>
+      <title>Session IV</title>
+      <link>https://lennardschmidt.github.io/courses/course-content/session-iv/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lennardschmidt.github.io/courses/course-content/session-iv/</guid>
+      <description>xaringanExtra::use_share_again()xaringanExtra::embed_xaringan(&amp;quot;./content/Course Content/2022-02_13-session-iv/slides.html&amp;quot;)fitvids(&#39;.shareagain&#39;, {players: &#39;iframe&#39;});Read Datadata(&amp;quot;AirPassengers&amp;quot;)# df &amp;lt;- read.csv(&amp;quot;./Data -- HBAT - Hair/hbat.csv&amp;quot;, sep = &amp;quot;;&amp;quot;, col.names = c(# &amp;quot;ID&amp;quot;, &amp;quot;cust_type&amp;quot;, &amp;quot;ind_type&amp;quot;, &amp;quot;firm_size&amp;quot;, &amp;quot;region&amp;quot;,# &amp;quot;distr_sytem&amp;quot;, &amp;quot;prod_quality&amp;quot;, &amp;quot;ecom_activity&amp;quot;,# &amp;quot;tech_support&amp;quot;, &amp;quot;compl_resolution&amp;quot;, &amp;quot;advertising&amp;quot;,# &amp;quot;prod_line&amp;quot;, &amp;quot;salesforce_image&amp;quot;, &amp;quot;comp_pricing&amp;quot;,# &amp;quot;warranty&amp;quot;, &amp;quot;new_prod&amp;quot;, &amp;quot;ordering&amp;quot;, &amp;quot;price_flex&amp;quot;,# &amp;quot;delivery_speed&amp;quot;, &amp;quot;satisfaction&amp;quot;, &amp;quot;recom_likelihood&amp;quot;,# &amp;quot;purchase_likelihood&amp;quot;, &amp;quot;current_purchase&amp;quot;,# &amp;quot;future_partnership&amp;quot;# ))Inspect Dataskimr::skim(AirPassengers)Table 1: Data summaryNameAirPassengersNumber of rows144Number of columns1_______________________Column type frequency:ts1________________________Group variablesNoneVariable type: ts</description>
+    </item>
+    
+    <item>
+      <title>Session V</title>
+      <link>https://lennardschmidt.github.io/courses/course-content/session-v/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lennardschmidt.github.io/courses/course-content/session-v/</guid>
+      <description>Read Datadata(&amp;quot;AirPassengers&amp;quot;)# df &amp;lt;- read.csv(&amp;quot;./Data -- HBAT - Hair/hbat.csv&amp;quot;, sep = &amp;quot;;&amp;quot;, col.names = c(# &amp;quot;ID&amp;quot;, &amp;quot;cust_type&amp;quot;, &amp;quot;ind_type&amp;quot;, &amp;quot;firm_size&amp;quot;, &amp;quot;region&amp;quot;,# &amp;quot;distr_sytem&amp;quot;, &amp;quot;prod_quality&amp;quot;, &amp;quot;ecom_activity&amp;quot;,# &amp;quot;tech_support&amp;quot;, &amp;quot;compl_resolution&amp;quot;, &amp;quot;advertising&amp;quot;,# &amp;quot;prod_line&amp;quot;, &amp;quot;salesforce_image&amp;quot;, &amp;quot;comp_pricing&amp;quot;,# &amp;quot;warranty&amp;quot;, &amp;quot;new_prod&amp;quot;, &amp;quot;ordering&amp;quot;, &amp;quot;price_flex&amp;quot;,# &amp;quot;delivery_speed&amp;quot;, &amp;quot;satisfaction&amp;quot;, &amp;quot;recom_likelihood&amp;quot;,# &amp;quot;purchase_likelihood&amp;quot;, &amp;quot;current_purchase&amp;quot;,# &amp;quot;future_partnership&amp;quot;# ))Inspect Dataskimr::skim(AirPassengers)Table 1: Data summaryNameAirPassengersNumber of rows144Number of columns1_______________________Column type frequency:ts1________________________Group variablesNoneVariable type: ts</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://lennardschmidt.github.io/courses/syllabus/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://lennardschmidt.github.io/courses/syllabus/2020-12-01-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+    </item>
+    
+  </channel>
+</rss>
